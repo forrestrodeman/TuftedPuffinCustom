@@ -1,0 +1,2 @@
+libreoffice 7.6.2 64b windows
+libresymbols gallery (old extension)
