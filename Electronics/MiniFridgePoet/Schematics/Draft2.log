@@ -1,0 +1,147 @@
+Circuit: * C:\Users\forrest.rodeman\TuftedPuffinCustom\Electronics\MiniFridgePoet\Schematics\Draft2.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Node N002 is floating.
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+Gmin = 1.76685e-07
+Gmin = 1.89714e-08
+Gmin = 2.03704e-09
+Gmin = 2.18725e-10
+Gmin = 2.34854e-11
+vernier = 0.5
+Gmin = 4.86445e-12
+vernier = 0.666667
+vernier = 0.888888
+Gmin = 1.10852e-12
+vernier = 0.444444
+vernier = 0.222222
+vernier = 0.111111
+vernier = 0.0555555
+vernier = 0.0277778
+Gmin = 1.10852e-12
+vernier = 0.0138889
+vernier = 0.00694444
+vernier = 0.00347222
+vernier = 0.00173611
+vernier = 0.000868055
+vernier = 0.000434028
+Gmin = 1.09707e-12
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 3.98911%
+Source Step = 4.01574%
+Source Step = 4.04534%
+Source Step = 4.07493%
+Source Step = 4.10452%
+Source Step = 4.13411%
+Source Step = 4.16371%
+vernier = 0.00146484
+Source Step = 4.20218%
+Source Step = 4.24657%
+Source Step = 4.29096%
+Source Step = 4.33535%
+Source Step = 4.37973%
+vernier = 0.00219727
+Source Step = 4.43522%
+Source Step = 4.50181%
+Source Step = 4.56839%
+Source Step = 4.63497%
+Source Step = 4.70156%
+Source Step = 4.76814%
+Source Step = 4.83472%
+vernier = 0.0032959
+Source Step = 4.92794%
+Source Step = 5.02782%
+Source Step = 5.12769%
+Source Step = 5.22757%
+Source Step = 5.32744%
+vernier = 0.00494385
+Source Step = 5.46228%
+Source Step = 5.61209%
+Source Step = 5.7619%
+Source Step = 5.91172%
+Source Step = 6.06153%
+vernier = 0.00741577
+Source Step = 6.25629%
+Source Step = 6.34056%
+Source Step = 6.39674%
+Source Step = 6.45292%
+Source Step = 6.5091%
+Source Step = 6.56528%
+Source Step = 6.62146%
+Source Step = 6.67764%
+Source Step = 6.73382%
+vernier = 0.00278091
+Source Step = 6.80966%
+Source Step = 6.89393%
+Source Step = 6.9782%
+Source Step = 7.06247%
+Source Step = 7.14674%
+vernier = 0.00417137
+Source Step = 7.25629%
+Source Step = 7.3827%
+Source Step = 7.5091%
+Source Step = 7.63551%
+Source Step = 7.76191%
+vernier = 0.00625706
+Source Step = 7.91992%
+Source Step = 8.10953%
+Source Step = 8.29914%
+Source Step = 8.48874%
+Source Step = 8.67835%
+vernier = 0.00938559
+Source Step = 8.90588%
+Source Step = 9.19029%
+Source Step = 9.47471%
+Source Step = 9.75912%
+Source Step = 10.0435%
+vernier = 0.0140784
+Source Step = 10.3706%
+Source Step = 10.7972%
+Source Step = 11.2238%
+Source Step = 11.6505%
+Source Step = 12.0771%
+vernier = 0.0211176
+Source Step = 12.5464%
+Source Step = 13.1863%
+Source Step = 13.8262%
+Source Step = 14.4661%
+Source Step = 15.1061%
+vernier = 0.0316764
+Source Step = 15.778%
+Source Step = 16.7379%
+Source Step = 17.6978%
+Source Step = 18.6576%
+Source Step = 19.6175%
+Source Step = 20.5774%
+vernier = 0.0475145
+Source Step = 22.0173%
+Source Step = 23.0341%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 28.0303%
+vernier = 0.0625
+Source stepping failed
+
+Singular matrix:  Check node q2#collector
+   Iteration No. 17
+Fatal Error: Singular matrix:  check node q2#collector
+   Iteration No. 17
+
+This circuit has floating nodes.
