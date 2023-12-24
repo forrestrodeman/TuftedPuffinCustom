@@ -1,0 +1,2 @@
+def testfun():
+	print("easy")
